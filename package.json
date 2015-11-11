@@ -1,0 +1,23 @@
+{
+  "name": "mac-localhostname",
+  "version": "1.0.0",
+  "description": "Gets your local hostname so that you can reference it in scripts and it can be reached",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/mac-localhostname.git"
+  },
+  "keywords": [
+    "localhostname",
+    "mac"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/mac-localhostname/issues"
+  },
+  "homepage": "https://github.com/exponentjs/mac-localhostname#readme"
+}
