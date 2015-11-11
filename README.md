@@ -3,7 +3,7 @@ Gets your local hostname so that you can reference it in scripts and it can be r
 
 ### Usage:
 ```js
-nesh*> macLocalhostname = require("/Users/ccheever/projects/mac-localhostname")
+nesh*> macLocalhostname = require('mac-localhostname')
 nesh*> yield macLocalhostname()
 'Charless-MacBook-Pro-2'
 ```
